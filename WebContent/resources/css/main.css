@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+#margins {
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+#leftTen {
+	margin-left:10%;
+}
+#leftC {
+	margin-left:10%;
+}
+
+#footer { height: 20px; }
+#footer { bottom:0; position:fixed; width:100%; margin-top:30px;  color: white; background:  #222222; text-align: center;height:25px;  } /*border-style: solid; border-width: 1px; border-color: white;*/
+/* Lastly, apply responsive CSS fixes as necessary */ @media (max-width: 767px) { #footer { margin-left:; margin-right:; padding-left: 20px; padding-right: 20px; } }
