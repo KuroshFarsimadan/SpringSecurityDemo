@@ -107,7 +107,7 @@
 </div>
 <div id="footer">
       <div class="container">
-        <div id="leftTen"><b> &copy; www.kuroshfarsimadan.com 2014 - 2015, All rights reserved (Page under construction)</b></div>
+        <div id="leftTen"><b> &copy; www.kurosh-farsimadan.com 2014 - 2015, All rights reserved (Page under construction)</b></div>
       </div>
 </div>
 </body>
