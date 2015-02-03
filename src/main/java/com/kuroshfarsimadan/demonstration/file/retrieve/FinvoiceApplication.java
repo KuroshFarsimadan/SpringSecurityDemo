@@ -207,10 +207,7 @@ public class FinvoiceApplication {
 	public static void findFiles() throws IOException {
 		File currentDirectory = new File("WebContent/resources/xml-files/");
 		File[] files = currentDirectory.listFiles();
-		/*
-			http://www.mkyong.com/java/search-directories-recursively-for-file-in-java/
-			http://stackoverflow.com/questions/15624226/java-search-for-files-in-a-directory
-		*/
+
 		System.out.println("Juuresta alkaen oleva kansiorakenne on: "+
 		currentDirectory.getCanonicalPath());
 		System.out.println("Kansion E-Laskut tiedostot "
